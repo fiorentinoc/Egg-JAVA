@@ -8,7 +8,7 @@ public class MiPrimerPrograma {
         float largo = 0.1416f;
         System.out.println("Hola Mundo!!!");
         System.out.println("Mi nombre es Christian");
-        System.out.println("Mi edad es 48");
+        System.out.println("Mi edad es 36");
         System.out.println(largo);
         System.out.println("Mi nombre es " + nombre + ", y tengo " + edad + " años.");
 
